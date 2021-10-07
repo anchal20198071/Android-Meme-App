@@ -4,4 +4,3 @@ Android Meme Project
 -> Image processing in android
 -> how to import multiple libraries in our android app.
 -> Sharing functionality
--> 
